@@ -1,1 +1,2 @@
 # PS-Java
+Algorithm studying
